@@ -1,5 +1,9 @@
 # MNIST Handwritten Digit Recognition
-
+Image from dataset
+<br>
+![MNIST_Dataset](MNIST-handwritten-digits-dataset-visualized.png)
+<br>
+<br>
 A deep learning project implementing a Convolutional Neural Network (CNN) to recognize handwritten digits from the MNIST dataset. The model achieves an accuracy of **99.23%** on the test set, demonstrating a highly effective approach to image classification.
 
 ## Table of Contents
